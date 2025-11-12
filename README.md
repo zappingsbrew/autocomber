@@ -16,11 +16,11 @@ Automatically generate combs for your programs. No more manually creating custom
 
 # Usage
 
-When you click on the main Autocomb skin it automatically reads and generates combs for each program in your start menu. It misses steam games and other such entries that don't point directly to an .exe (for now).
+When you click on the main Autocomber skin it automatically reads and generates combs for each program in your start menu. It misses steam games and other such entries that don't point directly to an .exe (for now).
 
-You can right click any Autocomb and select "edit variables" to edit the settings. Once you've edited the variables, save the file (ctrl + s) and right click any Autocomb and select "Refresh Autocomb" to load the new settings.
+You can right click any Autocomber and select "edit variables" to edit the settings. Once you've edited the variables, save the file (ctrl + s) and right click any Autocomber and select "Refresh Autocomber" to load the new settings.
 
-Whenever you install a new application, you can load the main Autocomb skin and click on it to regenerate all combs. 
+Whenever you install a new application, you can load the main Autocomber skin and click on it to regenerate all combs. 
 
 # F.A.Q.
 
